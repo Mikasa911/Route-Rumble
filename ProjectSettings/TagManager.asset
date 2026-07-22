@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainMenuCanvas
+  - PauseCanvas
+  - UIButtons
+  - Rock
+  - LevelSelectCanvas
+  - ProfileCanvas
+  - Name
+  - Select
+  - ProfileList
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Rock
+  - Interactables
+  - Obstacles
+  - BlackSpace
+  - Key
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2927334975
+    locked: 0
+  - name: Main
+    uniqueID: 2598674157
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1252563193
+    locked: 0
+  - name: Interactables
+    uniqueID: 4211592637
+    locked: 0
+  - name: UsedRock
+    uniqueID: 1672589673
+    locked: 0
+  - name: Rock
+    uniqueID: 3860595813
+    locked: 0
+  - name: Player
+    uniqueID: 4183911703
+    locked: 0
